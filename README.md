@@ -1,10 +1,18 @@
-# banking_ui
+# Flutter Banking Application UI
 
-A new Flutter project.
+A new Flutter project for user end minimal interface design. <br>
 
-## Getting Started
+ ## Snapshots
+<img src="Screenshots/Screenshot_1.png" height="450" width="210"/> &nbsp; <img src="Screenshots/Screenshot_2.png" height="450" width="210"/> &nbsp; <img src="Screenshots/Screenshot_3.png" height="450" width="210"/>
 
-This project is a starting point for a Flutter application.
+## Features
+
+A functional app that provides Flutter beginner with template for their mobile app projects. Features:
+
+* Simple & seamless interface
+* Attractive and clean UI
+* Welcome Screen
+* Bottom Navigation Bar
 
 A few resources to get you started if this is your first Flutter project:
 
